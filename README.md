@@ -10,6 +10,9 @@ This project focuses on forecasting daily minimum temperatures in Melbourne usin
   - Simple Recurrent Neural Network (SimpleRNN)
 - **Evaluation**: Models are evaluated and compared using R² score and visual analysis.
 
+## Dataset
+Daily minimum temperatures in Melbourne, obtained from Kaggle.
+
 [Dataset Link](https://www.kaggle.com/datasets/paulbrabban/daily-minimum-temperatures-in-melbourne/data)
 
 ## Technologies
